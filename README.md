@@ -24,6 +24,8 @@ The TDMA implementation includes:
 - **TAP interface:** Uses a Linux TAP interface for packet-level network integration.
 - **GNU Radio integration:** Transfers framed packets to GNU Radio through UDP for physical-layer processing and transmission.
 
+In conjunction with [GNU Radio for ADAM Pluto SDR](https://github.com/joel-bansal/TDMA-Swarm-Drones.git)
+
 ## 1. Motivation and Background
 
 A UAV swarm consists of multiple drones that need to communicate and coordinate with one another while operating as a distributed system.
