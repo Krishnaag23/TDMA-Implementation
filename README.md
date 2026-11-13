@@ -350,15 +350,6 @@ The repository also contains an `Initial_Reference/` directory with code from an
 
 The primary focus of this repository is the custom TDMA implementation developed as part of the undergraduate project.
 
-## 10. Contributors
-
-**Undergraduate Project (UGP)**  
-Indian Institute of Technology Kanpur
-
-- **Krishna Agrawal** — 230574
-- **Joel Bansal** — 230509
-
----
 
 ## Acknowledgement
 
